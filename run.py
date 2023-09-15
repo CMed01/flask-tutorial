@@ -26,6 +26,7 @@ def contact():
 def careers():
     return render_template("careers.html")
 
+
 if __name__ == "__main__":
     """
         Only make debu = true when in development
